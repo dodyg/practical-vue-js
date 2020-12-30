@@ -1,6 +1,5 @@
 # practical-vue-js
-Micro samples for Vue JS 3 primarily using Composition API and Vite.
-
+Micro samples for Vue JS 3  using Composition API, Vite and TypeScript.
 
 # [Hello World](/projects/hello-world)
 
